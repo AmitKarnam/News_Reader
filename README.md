@@ -9,6 +9,7 @@ To run the News_Reader:
 5) beautifulsoup 4 is used to get news-headlines from a website, I have selected a news website from which headlines were easy to scarp.
 6) Fork this repository.This add's all the files in this repo to your github page.
 7) Clone your forked repository to your local system.
-8) Run the file News_Reader.py on your machine.
-9) Prepare some Tea/Coeffe(your choice).
-10) Sit back and enjoy the news.
+8) Also don't forget to Change the path where you want to store your news. CHANGES are to be made in the 16th line of News_Reader.py file. 
+9) Run the file News_Reader.py on your machine.
+10) Prepare some Tea/Coeffe(your choice).
+11) Sit back and enjoy the news.
