@@ -6,5 +6,5 @@ To run the News_Reader:
 2) From Command Prompt type commmand pip install pyttsx3 2.71.
 3) The pyttsx3 is a  Text to Speech conversion module.
 4) After installing pyttsx3 fork this repository.
-5) Run the file NEws_reader.py on your machine.
+5) Run the file News_Reader.py on your machine.
 6) News is best served with hot cup of Coeffe/Tea!
