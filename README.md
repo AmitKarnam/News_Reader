@@ -11,5 +11,5 @@ To run the News_Reader:
 7) Clone your forked repository to your local system.
 8) Also don't forget to Change the path where you want to store your news. CHANGES are to be made in the 16th line of News_Reader.py file. 
 9) Run the file News_Reader.py on your machine.
-10) Prepare some Tea/Coeffe(your choice).
+10) Prepare some Tea/Coffee(your choice).
 11) Sit back and enjoy the news.
