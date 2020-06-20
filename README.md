@@ -1,5 +1,16 @@
 # News_Reader
 Created a python code that read's the top 10 news-headlines. 
 
-HEY SORRY FOR THE INCOVNIENCE GUYS, I'll shortly update the README file.
-There are a few updates that need to be made in CODE, STAY TUNED for more action.
+ 1) First install pyttsx3 module through -pip install pyttsx3 or directly from it's github link https://github.com/nateshmbhat/pyttsx3
+ 
+ 2) pyttsx3 is an text to speech module that helps in producing speech format of the news we scrape.
+ 
+ 3) Also download requests and BeautifulSoup modules, these modules are used to obtain the news.
+ 
+ 4) Now after the installation process run the get_news.py file, this file helps to scrap the news from required website.
+ 
+ 5) Make sure to change the file path in the code to the path u want to store the news.
+ 
+ 6) Then run the speak.py file and BHOOM!
+ 
+ 7) Enjoy ur daily news over a hot cup of coeffe.
