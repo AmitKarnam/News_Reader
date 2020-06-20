@@ -9,8 +9,8 @@ Created a python code that read's the top 10 news-headlines.
  
  4) Now after the installation process run the get_news.py file, this file helps to scrap the news from required website.
  
- 5) Make sure to change the file path in the code to the path u want to store the news.
+ 5) Make sure to change the file path in the code to the path you want to store the news.
  
- 6) Then run the speak.py file and BHOOM!
+ 6) Then run the speak.py file and BOOM!
  
- 7) Enjoy ur daily news over a hot cup of coeffe.
+ 7) Enjoy your daily news over a hot cup of coffee.
